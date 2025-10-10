@@ -12,6 +12,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "4b25f8f8ae97af76",
+        "key": "swiggy",
+        "expirydate": "30-09-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "c8a366a1456eb447",
         "key": "msewa11",
         "expirydate": "31-12-2025",
