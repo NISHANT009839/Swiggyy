@@ -24,6 +24,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "d95af99b90085c8c",
+        "key": "bizom",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "c70a6eacf2f40825",
         "key": "axom",
         "expirydate": "31-12-2025",
